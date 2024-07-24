@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + supabase 
+# React + TypeScript + Vite + Supabase 
 
 리액트 훅을 활용한 로그인 회원가입 기능입니다.
 
